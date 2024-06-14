@@ -1,3 +1,5 @@
+![Web Weather Desktop View](https://github.com/Raflymumtz/Weather-Website/assets/106478791/8482a64f-fde9-4b4c-8b26-e2efc1bb7f1a)
+
 Weather Web App Description
 Project Title: Weather Information Web Application
 
@@ -73,4 +75,4 @@ Sunrise Time: "Sunrise: 05:30"
 Sunset Time: "Sunset: 17:45"
 Footer: "Date: Wednesday, June 12, 2024"
 
-![Web Weather Desktop View](https://github.com/Raflymumtz/Weather-Website/assets/106478791/8482a64f-fde9-4b4c-8b26-e2efc1bb7f1a)
+
