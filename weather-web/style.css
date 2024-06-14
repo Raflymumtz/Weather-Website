@@ -1,0 +1,192 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    font-family: 'Roboto', sans-serif;
+    overflow: hidden;
+    background: linear-gradient(to bottom right, #6db3f2, #1e69de);
+}
+.desktop-view {
+    background: linear-gradient(to bottom right, #6db3f2, #1e69de);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+    padding: 30px;
+  }
+  .desktop-view .icon-awan {
+    background: url('../assets/images/icon_awan.png') 50% / cover no-repeat;
+    display: flex;
+    width: 200px;
+    height: 200px;
+  }
+  .desktop-view .search-icon {
+    background: url('../assets/images/search_icon.png') 50% / cover no-repeat;
+    width: 35px;
+    height: 35px;
+  }
+  .desktop-view .search_bar {
+    border-radius: 50px;
+    background: #D9D9D9;
+    position: center;
+    margin: 0 0 50px 4.5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 19px 29px 18px 38px;
+    width: 758px;
+    box-sizing: border-box;
+  }
+  .desktop-view .c {
+    margin-bottom: 7px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Ubuntu';
+    font-weight: 700;
+    font-size: 96px;
+    color: #EFDBC8;
+  }
+  .desktop-view .description {
+    margin-bottom: 46px;
+    display: inline-block;
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Ubuntu';
+    font-weight: 700;
+    font-size: 20px;
+    color: #FFFFFF;
+  }
+  .desktop-view .weather-info {
+    margin: 0px;
+    overflow-wrap: break-word;
+    font-family: 'Ubuntu';
+    font-weight: 700;
+    font-size: 35px;
+    color: #FFFFFF;
+  }
+  .desktop-view .sunrise-sunset {
+    margin: 40px 0px 0px 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 232px;
+    box-sizing: border-box;
+  }
+  .desktop-view .weather-icon {
+    margin: 0 0 40px 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .desktop-view .coordinates {
+    margin-right: 21px;
+    overflow-wrap: break-word;
+    font-family: 'Ubuntu';
+    font-weight: 700;
+    font-size: 20px;
+    color: #33F3BA;
+  }
+  .desktop-view .feels-like-temperature {
+    margin-left: 2.7px;
+    overflow-wrap: break-word;
+    font-family: 'Ubuntu';
+    font-weight: 700;
+    font-size: 20px;
+    color: #FFFFFF;
+  }
+  .desktop-view .temperature {
+    margin: 0 0 45px 19.8px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .desktop-view .description {
+    margin: 0 0 13px 24.5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .desktop-view .tanggal {
+    margin: 100px 0px 0px 0;
+    display: flex;
+    width: 400px;
+    overflow-wrap: break-word;
+    font-family: 'Ubuntu Mono';
+    font-weight: 700;
+    font-size: 35px;
+    color: #FFFFFF;
+    padding: 20px;
+  }
+  .desktop-view .caption {
+    margin-right: 17.5px;
+    width: 638.5px;
+    overflow-wrap: break-word;
+    font-family: 'Ubuntu Mono';
+    font-weight: 700;
+    font-size: 35px;
+    color: #B5B4B4;
+  }
+  .desktop-view .sunset-icon {
+    background: url('../assets/images/sunset_icon.png') 50% / cover no-repeat;
+    width: 60px;
+    height: 60px;
+  }
+  .desktop-view .container {
+    overflow-wrap: break-word;
+    font-family: 'Ubuntu';
+    font-weight: 700;
+    font-size: 20px;
+    color: #FFFFFF;
+  }
+  .desktop-view .sunrise-images-1 {
+    background: url('../assets/images/sunrise_icon.png') 50% / cover no-repeat;
+    width: 60px;
+    height: 60px;
+  }
+  .desktop-view .container-1 {
+    width: 100%;
+    overflow-wrap: break-word;
+    font-family: 'Ubuntu';
+    font-weight: 700;
+    font-size: 20px;
+    color: #FFFFFF;
+  }
+  .desktop-view .sun-images-1 {
+    background: url('../assets/images/sun_images.png') 50% / cover no-repeat;
+    margin-left: 2px;
+    width: 60px;
+    height: 60px;
+  }
+  .desktop-view .container {
+    margin-bottom: 7px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 232px;
+    box-sizing: border-box;
+  }
+  .desktop-view .container-1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1306.5px;
+    box-sizing: border-box;
+  }
+  .desktop-view .container-2 {
+    margin: 0 5.3px 0 4.3px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 222.4px;
+    box-sizing: border-box;
+  }
